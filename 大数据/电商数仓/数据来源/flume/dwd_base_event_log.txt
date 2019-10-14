@@ -1,0 +1,67 @@
+dwd_base_event_log.mid_id       dwd_base_event_log.user_id      dwd_base_event_log.version_code dwd_base_event_log.version_name dwd_base_event_log.lang dwd_base_event_log.source       dwd_base_event_log.os   dwd_base_event_log.area dwd_base_event_log.model dwd_base_event_log.brand        dwd_base_event_log.sdk_version  dwd_base_event_log.gmail        dwd_base_event_log.height_width dwd_base_event_log.app_time     dwd_base_event_log.network      dwd_base_event_log.lng   dwd_base_event_log.lat  dwd_base_event_log.event_name   dwd_base_event_log.event_json   dwd_base_event_log.server_time  dwd_base_event_log.dt
+
+1       1       19      1.3.9   en      H       8.0.7   MX      HTC-10  HTC     V2.6.7  7736A6CX@gmail.com      1080*1920       1566125162959   WIFI    -113.3  -27.6   display {"ett":"1566152151177","en":"display","kv":{"goodsid":"0","action":"1","extend1":"2","place":"4","category":"41"}}       1566213874611   2019-08-19
+
+
+1       1       19      1.3.9   en      H       8.0.7   MX      HTC-10  HTC     V2.6.7  7736A6CX@gmail.com      1080*1920       1566125162959   WIFI    -113.3  -27.6   newsdetail      {"ett":"1566160372124","en":"newsdetail","kv":{"entry":"2","goodsid":"1","news_staytime":"3","loading_time":"18","action":"4","showtype":"3","category":"60","type1":"325"}}     1566213874611   2019-08-19
+
+
+1       1       19      1.3.9   en      H       8.0.7   MX      HTC-10  HTC     V2.6.7  7736A6CX@gmail.com      1080*1920       1566125162959   WIFI    -113.3  -27.6   loading {"ett":"1566129895127","en":"loading","kv":{"extend2":"","loading_time":"28","action":"3","extend1":"","type":"1","type1":"","loading_way":"1"}} 1566213874611   2019-08-19
+
+
+1       1       19      1.3.9   en      H       8.0.7   MX      HTC-10  HTC     V2.6.7  7736A6CX@gmail.com      1080*1920       1566125162959   WIFI    -113.3  -27.6   ad      {"ett":"1566148592394","en":"ad","kv":{"entry":"1","show_style":"5","action":"2","detail":"542","source":"2","behavior":"2","content":"1","newstype":"8"}}       1566213874611   2019-08-19
+
+1       1       19      1.3.9   en      H       8.0.7   MX      HTC-10  HTC     V2.6.7  7736A6CX@gmail.com      1080*1920       1566125162959   WIFI    -113.3  -27.6   notification    {"ett":"1566184899190","en":"notification","kv":{"ap_time":"1566135929623","action":"3","type":"3","content":""}}        1566213874611   2019-08-19
+
+1       1       19      1.3.9   en      H       8.0.7   MX      HTC-10  HTC     V2.6.7  7736A6CX@gmail.com      1080*1920       1566125162959   WIFI    -113.3  -27.6   active_foreground       {"ett":"1566143747294","en":"active_foreground","kv":{"access":"","push_id":"1"}}        1566213874611   2019-08-19
+
+1       1       19      1.3.9   en      H       8.0.7   MX      HTC-10  HTC     V2.6.7  7736A6CX@gmail.com      1080*1920       1566125162959   WIFI    -113.3  -27.6   active_background       {"ett":"1566136998926","en":"active_background","kv":{"active_source":"2"}}      1566213874611   2019-08-19
+
+1       1       19      1.3.9   en      H       8.0.7   MX      HTC-10  HTC     V2.6.7  7736A6CX@gmail.com      1080*1920       1566125162959   WIFI    -113.3  -27.6   error   {"ett":"1566119568287","en":"error","kv":{"errorDetail":"at cn.lift.dfdfdf.control.CommandUtil.getInfo(CommandUtil.java:67)\\n at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\\n at java.lang.reflect.Method.invoke(Method.java:606)\\n","errorBrief":"at cn.lift.appIn.control.CommandUtil.getInfo(CommandUtil.java:67)"}}     1566213874611   2019-08-19
+
+
+
+5       5       9       1.2.9   es      L       8.0.5   MX      sumsung-17      Sumsung V2.5.5  388RT25G@gmail.com      750*1134        1566149143478   3G      -85.7   -2.9000000000000004     loading {"ett":"1566120273772","en":"loading","kv":{"extend2":"","loading_time":"14","action":"3","extend1":"","type":"2","type1":"","loading_way":"2"}} 1566213874907   2019-08-19
+
+5       5       9       1.2.9   es      L       8.0.5   MX      sumsung-17      Sumsung V2.5.5  388RT25G@gmail.com      750*1134        1566149143478   3G      -85.7   -2.9000000000000004     notification    {"ett":"1566162455766","en":"notification","kv":{"ap_time":"1566129533064","action":"2","type":"3","content":""}}        1566213874907   2019-08-19
+
+5       5       9       1.2.9   es      L       8.0.5   MX      sumsung-17      Sumsung V2.5.5  388RT25G@gmail.com      750*1134        1566149143478   3G      -85.7   -2.9000000000000004     active_foreground       {"ett":"1566183253139","en":"active_foreground","kv":{"access":"1","push_id":"2"}}       1566213874907   2019-08-19
+
+
+5       5       9       1.2.9   es      L       8.0.5   MX      sumsung-17      Sumsung V2.5.5  388RT25G@gmail.com      750*1134        1566149143478   3G      -85.7   -2.9000000000000004     comment {"ett":"1566152599592","en":"comment","kv":{"p_comment_id":0,"addtime":"1566121283077","praise_count":414,"other_id":5,"comment_id":0,"reply_count":129,"userid":2,"content":"拾旺使砂主拉韭辅倒额秆"}}  1566213874907   2019-08-19
+
+
+7       7       16      1.2.4   es      Q       8.0.1   MX      sumsung-7       Sumsung V2.8.2  2473G29R@gmail.com      640*1136        1566153415513   WIFI    -53.0   -0.40000000000000036    newsdetail      {"ett":"1566210747203","en":"newsdetail","kv":{"entry":"2","goodsid":"1","news_staytime":"14","loading_time":"9","action":"4","showtype":"3","category":"84","type1":"542"}}     1566213874949   2019-08-19
+
+
+7       7       16      1.2.4   es      Q       8.0.1   MX      sumsung-7       Sumsung V2.8.2  2473G29R@gmail.com      640*1136        1566153415513   WIFI    -53.0   -0.40000000000000036    loading {"ett":"1566137075713","en":"loading","kv":{"extend2":"","loading_time":"42","action":"2","extend1":"","type":"3","type1":"","loading_way":"2"}} 1566213874949   2019-08-19
+
+
+7       7       16      1.2.4   es      Q       8.0.1   MX      sumsung-7       Sumsung V2.8.2  2473G29R@gmail.com      640*1136        1566153415513   WIFI    -53.0   -0.40000000000000036    ad      {"ett":"1566209966426","en":"ad","kv":{"entry":"2","show_style":"3","action":"5","detail":"","source":"4","behavior":"1","content":"2","newstype":"7"}}  1566213874949   2019-08-19
+
+
+7       7       16      1.2.4   es      Q       8.0.1   MX      sumsung-7       Sumsung V2.8.2  2473G29R@gmail.com      640*1136        1566153415513   WIFI    -53.0   -0.40000000000000036    notification    {"ett":"1566176605172","en":"notification","kv":{"ap_time":"1566120545033","action":"1","type":"4","content":""}}        1566213874949   2019-08-19
+
+
+7       7       16      1.2.4   es      Q       8.0.1   MX      sumsung-7       Sumsung V2.8.2  2473G29R@gmail.com      640*1136        1566153415513   WIFI    -53.0   -0.40000000000000036    comment {"ett":"1566128928930","en":"comment","kv":{"p_comment_id":3,"addtime":"1566145382077","praise_count":578,"other_id":7,"comment_id":9,"reply_count":29,"userid":3,"content":"犁锅潮趣愉公簧"}}   1566213874949   2019-08-19
+
+
+8       8       9       1.3.3   en      J       8.0.2   MX      Huawei-14       Huawei  V2.5.0  F595FAET@gmail.com      750*1134        1566153878583   3G      -59.9   8.2     display {"ett":"1566162205483","en":"display","kv":{"goodsid":"1","action":"2","extend1":"2","place":"1","category":"31"}}       1566213874982   2019-08-19
+
+
+8       8       9       1.3.3   en      J       8.0.2   MX      Huawei-14       Huawei  V2.5.0  F595FAET@gmail.com      750*1134        1566153878583   3G      -59.9   8.2     loading {"ett":"1566157944847","en":"loading","kv":{"extend2":"","loading_time":"7","action":"3","extend1":"","type":"1","type1":"433","loading_way":"2"}}       1566213874982   2019-08-19
+
+
+8       8       9       1.3.3   en      J       8.0.2   MX      Huawei-14       Huawei  V2.5.0  F595FAET@gmail.com      750*1134        1566153878583   3G      -59.9   8.2     ad      {"ett":"1566151865688","en":"ad","kv":{"entry":"3","show_style":"0","action":"4","detail":"542","source":"3","behavior":"2","content":"1","newstype":"6"}}       1566213874982   2019-08-19
+
+
+8       8       9       1.3.3   en      J       8.0.2   MX      Huawei-14       Huawei  V2.5.0  F595FAET@gmail.com      750*1134        1566153878583   3G      -59.9   8.2     active_foreground       {"ett":"1566197041159","en":"active_foreground","kv":{"access":"","push_id":"3"}}        1566213874982   2019-08-19
+
+
+8       8       9       1.3.3   en      J       8.0.2   MX      Huawei-14       Huawei  V2.5.0  F595FAET@gmail.com      750*1134        1566153878583   3G      -59.9   8.2     error   {"ett":"1566172480259","en":"error","kv":{"errorDetail":"at cn.lift.dfdfdf.control.CommandUtil.getInfo(CommandUtil.java:67)\\n at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\\n at java.lang.reflect.Method.invoke(Method.java:606)\\n","errorBrief":"at cn.lift.dfdf.web.AbstractBaseController.validInbound(AbstractBaseController.java:72)"}}       1566213874982   2019-08-19
+
+
+8       8       9       1.3.3   en      J       8.0.2   MX      Huawei-14       Huawei  V2.5.0  F595FAET@gmail.com      750*1134        1566153878583   3G      -59.9   8.2     favorites       {"ett":"1566139618256","en":"favorites","kv":{"course_id":6,"id":0,"add_time":"1566172638044","userid":4}}       1566213874982   2019-08-19
+
+
+8       8       9       1.3.3   en      J       8.0.2   MX      Huawei-14       Huawei  V2.5.0  F595FAET@gmail.com      750*1134        1566153878583   3G      -59.9   8.2     praise  {"ett":"1566188702246","en":"praise","kv":{"target_id":5,"id":3,"type":1,"add_time":"1566125799515","userid":7}} 1566213874982   2019-08-19

@@ -1,0 +1,27 @@
+dwd_sku_info.id dwd_sku_info.spu_id     dwd_sku_info.price      dwd_sku_info.sku_name   dwd_sku_info.sku_desc   dwd_sku_info.weight     dwd_sku_info.tm_id      dwd_sku_info.category3_id       dwd_sku_info.category2_id       dwd_sku_info.category1_id        dwd_sku_info.category3_name     dwd_sku_info.category2_name     dwd_sku_info.category1_name     dwd_sku_info.create_time        dwd_sku_info.dt
+1       923     2408    JLMznQoXWPixOzgkFxyW    nCWZkcDNcXFlmAUVVRwJTxIXMSeQRK  0.61    2       89      16      3       洗衣机  大 家 电        家用电器        2019-09-12 01:04:20.0   2019-08-19
+5       221     1479    QivCAVasMHZbjSIQdUnF    lqVHzBhgmQsqDRAcLwcVunfOEDeLtK  2.05    64      827     85      14      花果茶  茗茶    食品饮料、保健食品      2019-09-12 14:27:59.0   2019-08-19
+6       111     2732    urAClwAlJwpiWklxFJJd    wWvohRQCoObORTTMcZSqZYVJtaVCav  0.54    83      395     44      7       陶瓷/马克杯     水具酒具        厨具    2019-09-12 00:03:49.0   2019-08-19
+11      339     81      cmZotdiIRiqcsFajUWak    ZtTnJEXWSzTWamieWxuIhMogQLftEQ  2.05    25      1058    110     17      沙滩/凉拖       户外鞋服        运动健康        2019-09-12 21:26:41.0   2019-08-19
+12      999     4845    SrgHQjxJckRFBPuJXRqe    ydYIwgrpxtCHBKXJCHFfLppDXfHWJI  1.77    41      782     79      14      休闲零食        进口食品        食品饮料、保健食品      2019-09-12 00:11:56.0   2019-08-19
+17      958     3190    qIrKAyQHQhoYYaeuMArj    TSIORSQzYudfuFSAWhVhXqNSZsPXrQ  0.98    8       289     33      6       平板电脑配件    电脑整机        电脑办公        2019-09-12 09:12:42.0   2019-08-19
+19      31      443     rxnVNdemVTEqSqZafxaJ    hTTNjIMLvUjnOeekLZPbNKnibInqNT  0.97    90      782     79      14      休闲零食        进口食品        食品饮料、保健食品      2019-09-12 00:31:11.0   2019-08-19
+21      861     4838    ntgAkwDDeMvScIhMploI    BHIsRdQTWbqCPssKxjzYtYMOJdnfNx  4.97    62      385     42      7       瓜果刀/刨       刀剪菜板        厨具    2019-09-12 02:40:26.0   2019-08-19
+26      861     4967    uXEdDJvlRAeThcSijwJS    slcDKNNydXCUPqkdNCzPzfdZNQRNmV  4.33    52      158     20      3       其它健康电器    个护健康        家用电器        2019-09-12 18:28:03.0   2019-08-19
+29      756     1011    MelTKToPhspxrtQXpJAA    bEQsrFbrDRzWidRZwjIMIiQJHrNPKe  2.22    64      33      7       1       经济    经管励志        图书、音像、电子书刊    2019-09-12 20:36:07.0   2019-08-19
+31      109     256     VxBpVIFZhLiJUyJXKImm    vvOJcjNnZiUYjazvELPSTPrrIpBLba  4.90    83      1035    109     17      游泳包防水包    游泳用品        运动健康        2019-09-12 11:56:26.0   2019-08-19
+36      634     2404    zcOLpozFFicKsLBxKgzh    lIHmqPeaQaHkcHcrCNgstPTYoxyXqO  4.80    42      1032    108     17      其它    垂钓用品        运动健康        2019-09-12 21:29:39.0   2019-08-19
+48      895     4489    PrlifcWBTNlNhxRPAhhs    sJqCNkMgrsLCEnCYjcJpuemWVQqhMo  1.39    15      540     56      9       工装    男装    服饰内衣        2019-09-12 20:35:39.0   2019-08-19
+51      733     2501    pZewXwpjcLvXxxWmxCur    zxNxaKwbVxCsiNogPJLNFMVpNXyxTb  2.85    52      117     18      3       电炖锅  厨房小电        家用电器        2019-09-12 01:18:09.0   2019-08-19
+52      957     3110    mqStpsToPjzTXfKjOtCE    nDeLsJamfQOxXtaVBTRBjoRrkawhuB  2.53    69      356     39      6       纸类    文具/耗材       电脑办公        2019-09-12 17:18:27.0   2019-08-19
+60      637     3650    MzoTCgYBJTnMSgbMFQoU    KPTbAvDFrTtkTQwKmcDHBLbXJBEtes  2.63    32      757     76      13      鲜花绿植        礼品    礼品箱包        2019-09-12 03:37:57.0   2019-08-19
+61      104     2754    wBtomsfwQQJLIiQHKJZg    FIAAeScJmidUkutHhQEyHPdXEaqEZi  4.32    76      1095    113     17      高尔夫  体育用品        运动健康        2019-09-12 07:45:17.0   2019-08-19
+66      46      471     qsNNBrevRUZpzCoNYDUQ    tvWvohSUUNfobtNHYWNYEZmmyJJBEr  4.85    81      717     71      12      靴子    童装童鞋        母婴    2019-09-12 09:05:23.0   2019-08-19
+69      435     24      KCErTtmfRQFDcBBbBFxv    LtKuTilJyzcNIZZYTwEIzyVfQNuJaf  2.90    35      654     64      12      面条/粥 营养辅食        母婴    2019-09-12 01:21:26.0   2019-08-19
+71      400     998     PswfjFBPuDHAINQPCqZY    TxIZWKInpKFVLWwwPLkRFyFCYkePOy  5.00    61      41      8       1       烹饪美食        生活    图书、音像、电子书刊    2019-09-12 06:24:20.0   2019-08-19
+76      401     1119    VUKSggjEsZVDdKqviExy    cPTWeHVJvhBmCcJYXRsooFkjoUFqOZ  3.13    96      28      6       1       法律    人文社科        图书、音像、电子书刊    2019-09-12 14:14:07.0   2019-08-19
+77      501     4047    CpRqbkVaosXKFZewXwpl    joTAVcylKTnKJpyxRPAgefmTJCQyUc  2.90    55      620     61      11      帆布鞋  流行男鞋        鞋靴    2019-09-12 13:32:26.0   2019-08-19
+79      424     649     tykHEYiRMiJFgSTRBikA    ZuaUxBoQmOixPFJsTrclZqCPtxgocs  3.43    20      25      6       1       哲学    人文社科        图书、音像、电子书刊    2019-09-12 15:55:18.0   2019-08-19
+81      244     1873    hDvuKrCOnWUHBMgwMuPO    ycQXrOVmxBrckWapywNApVKOOAoSyN  2.25    67      849     88      15      K金手镯/手链/脚链       K金饰品 珠宝    2019-09-12 06:44:33.0   2019-08-19
+83      832     1894    uRZvfoeDEnzJWHudgvKm    gTbBDnFkkxEFpJyqkdJkYoxvKmhZBH  3.53    42      219     25      4       MP3/MP4配件     影音娱乐        数码    2019-09-12 06:14:44.0   2019-08-19
+Time taken: 0.112 seconds, Fetched: 25 row(s)

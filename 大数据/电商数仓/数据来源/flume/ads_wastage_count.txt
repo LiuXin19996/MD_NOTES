@@ -1,0 +1,4 @@
+ads_wastage_count.dt    ads_wastage_count.wastage_count
+2019-09-04      62
+2019-08-28      0
+ 

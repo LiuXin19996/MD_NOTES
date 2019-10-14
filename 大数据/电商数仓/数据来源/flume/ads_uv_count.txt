@@ -1,0 +1,6 @@
+ads_uv_count.dt ads_uv_count.day_count  ads_uv_count.wk_count   ads_uv_count.mn_count   ads_uv_count.is_weekend ads_uv_count.is_monthend
+2019-08-19      724     724     724     N       N
+2019-08-19      724     724     986     N       N
+2019-08-28      936     936     986     N       N
+2019-09-04      732     732     937     N       N
+2019-09-12      735     735     937     N       N

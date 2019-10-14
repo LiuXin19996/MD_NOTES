@@ -1,0 +1,100 @@
+ ods_start_log.line      ods_start_log.dt
+{"action":"1","ar":"MX","ba":"HTC","detail":"433","en":"start","entry":"5","extend1":"","g":"9E18VUDP@gmail.com","hw":"640*960","l":"en","la":"-18.1","ln":"-86.8","loading_time":"11","md":"HTC-0","mid":"0","nw":"WIFI","open_ad_type":"1","os":"8.0.9","sr":"W","sv":"V2.8.5","t":"1566156994125","uid":"0","vc":"0","vn":"1.3.0"}    2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"201","en":"start","entry":"4","extend1":"","g":"84S73Y45@gmail.com","hw":"640*960","l":"pt","la":"-32.3","ln":"-66.5","loading_time":"8","md":"HTC-5","mid":"2","nw":"WIFI","open_ad_type":"1","os":"8.1.0","sr":"N","sv":"V2.8.0","t":"1566153679494","uid":"2","vc":"8","vn":"1.1.8"}     2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"542","en":"start","entry":"4","extend1":"","g":"1F26AE9T@gmail.com","hw":"750*1134","l":"es","la":"-37.9","ln":"-91.5","loading_time":"15","md":"Huawei-1","mid":"3","nw":"4G","open_ad_type":"1","os":"8.2.7","sr":"F","sv":"V2.5.3","t":"1566157217384","uid":"3","vc":"17","vn":"1.2.2"}      2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"542","en":"start","entry":"2","extend1":"","g":"0B7DFAQ4@gmail.com","hw":"640*960","l":"es","la":"30.0","ln":"-114.3","loading_time":"8","md":"sumsung-15","mid":"4","nw":"3G","open_ad_type":"1","os":"8.0.5","sr":"L","sv":"V2.6.8","t":"1566121803077","uid":"4","vc":"7","vn":"1.0.6"}      2019-08-19
+
+{"action":"2","ar":"MX","ba":"HTC","detail":"","en":"start","entry":"1","extend1":"","g":"5EBK79P2@gmail.com","hw":"640*960","l":"pt","la":"0.3999999999999999","ln":"-90.1","loading_time":"2","md":"HTC-4","mid":"6","nw":"WIFI","open_ad_type":"1","os":"8.1.5","sr":"Y","sv":"V2.2.8","t":"1566208399307","uid":"6","vc":"17","vn":"1.2.7"}  2019-08-19
+
+{"action":"2","ar":"MX","ba":"Sumsung","detail":"542","en":"start","entry":"1","extend1":"","g":"6920R8J6@gmail.com","hw":"640*960","l":"en","la":"16.9","ln":"-64.9","loading_time":"5","md":"sumsung-7","mid":"9","nw":"3G","open_ad_type":"1","os":"8.2.0","sr":"B","sv":"V2.0.8","t":"1566190252458","uid":"9","vc":"6","vn":"1.3.5"}        2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"325","en":"start","entry":"2","extend1":"","g":"O987FPFL@gmail.com","hw":"640*1136","l":"en","la":"-48.9","ln":"-100.2","loading_time":"12","md":"Huawei-15","mid":"11","nw":"4G","open_ad_type":"2","os":"8.2.6","sr":"B","sv":"V2.3.5","t":"1566186955369","uid":"11","vc":"13","vn":"1.1.9"}  2019-08-19
+
+{"action":"2","ar":"MX","ba":"Huawei","detail":"102","en":"start","entry":"5","extend1":"","g":"7Z27S31U@gmail.com","hw":"1080*1920","l":"es","la":"18.0","ln":"-86.0","loading_time":"19","md":"Huawei-7","mid":"12","nw":"WIFI","open_ad_type":"1","os":"8.2.2","sr":"P","sv":"V2.4.6","t":"1566208864234","uid":"12","vc":"17","vn":"1.1.0"}  2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"325","en":"start","entry":"4","extend1":"","g":"7077KGLH@gmail.com","hw":"640*960","l":"pt","la":"-17.7","ln":"-101.1","loading_time":"3","md":"HTC-7","mid":"15","nw":"WIFI","open_ad_type":"2","os":"8.2.9","sr":"L","sv":"V2.8.2","t":"1566121747488","uid":"15","vc":"8","vn":"1.0.8"}  2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"201","en":"start","entry":"4","extend1":"","g":"2S13SZHN@gmail.com","hw":"640*1136","l":"pt","la":"-38.0","ln":"-118.7","loading_time":"2","md":"HTC-2","mid":"16","nw":"WIFI","open_ad_type":"1","os":"8.1.2","sr":"V","sv":"V2.2.9","t":"1566181956746","uid":"16","vc":"6","vn":"1.0.5"} 2019-08-19
+
+{"action":"2","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"3","extend1":"","g":"4E0EE427@gmail.com","hw":"750*1134","l":"en","la":"16.5","ln":"-110.7","loading_time":"19","md":"sumsung-11","mid":"18","nw":"4G","open_ad_type":"2","os":"8.2.2","sr":"E","sv":"V2.1.5","t":"1566122212863","uid":"18","vc":"6","vn":"1.3.0"}     2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"201","en":"start","entry":"5","extend1":"","g":"EE96X24H@gmail.com","hw":"640*960","l":"pt","la":"-10.2","ln":"-63.5","loading_time":"2","md":"HTC-6","mid":"19","nw":"3G","open_ad_type":"1","os":"8.1.8","sr":"B","sv":"V2.6.8","t":"1566130936440","uid":"19","vc":"13","vn":"1.1.3"}    2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"325","en":"start","entry":"4","extend1":"","g":"9795D5MU@gmail.com","hw":"750*1134","l":"en","la":"-7.3","ln":"-92.4","loading_time":"6","md":"sumsung-12","mid":"20","nw":"4G","open_ad_type":"2","os":"8.2.9","sr":"J","sv":"V2.0.2","t":"1566134409129","uid":"20","vc":"9","vn":"1.1.2"}    2019-08-19
+
+{"action":"2","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"2","extend1":"","g":"7160OG9U@gmail.com","hw":"640*1136","l":"es","la":"24.0","ln":"-96.4","loading_time":"17","md":"sumsung-0","mid":"21","nw":"3G","open_ad_type":"1","os":"8.1.1","sr":"J","sv":"V2.7.2","t":"1566196339204","uid":"21","vc":"14","vn":"1.1.8"}      2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"","en":"start","entry":"1","extend1":"","g":"JOBZZ3M2@gmail.com","hw":"640*960","l":"pt","la":"-9.2","ln":"-96.3","loading_time":"17","md":"Huawei-14","mid":"24","nw":"WIFI","open_ad_type":"2","os":"8.0.6","sr":"F","sv":"V2.6.2","t":"1566204494534","uid":"24","vc":"6","vn":"1.1.2"}       2019-08-19
+
+{"action":"2","ar":"MX","ba":"HTC","detail":"","en":"start","entry":"5","extend1":"","g":"AOEU3FIT@gmail.com","hw":"750*1134","l":"es","la":"-47.0","ln":"-76.0","loading_time":"2","md":"HTC-15","mid":"25","nw":"3G","open_ad_type":"2","os":"8.1.3","sr":"J","sv":"V2.7.2","t":"1566155684139","uid":"25","vc":"12","vn":"1.0.1"}     2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"325","en":"start","entry":"3","extend1":"","g":"A0241P4M@gmail.com","hw":"750*1134","l":"en","la":"23.2","ln":"-71.1","loading_time":"4","md":"Huawei-4","mid":"27","nw":"4G","open_ad_type":"1","os":"8.2.0","sr":"X","sv":"V2.8.2","t":"1566199603660","uid":"27","vc":"11","vn":"1.3.5"}      2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"","en":"start","entry":"4","extend1":"","g":"IYRFMYN5@gmail.com","hw":"1080*1920","l":"pt","la":"22.8","ln":"-107.7","loading_time":"11","md":"HTC-8","mid":"29","nw":"4G","open_ad_type":"2","os":"8.2.9","sr":"H","sv":"V2.6.2","t":"1566125531671","uid":"29","vc":"8","vn":"1.3.5"}     2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"201","en":"start","entry":"5","extend1":"","g":"81TDK188@gmail.com","hw":"1080*1920","l":"es","la":"-50.5","ln":"-92.1","loading_time":"16","md":"HTC-12","mid":"30","nw":"3G","open_ad_type":"2","os":"8.2.6","sr":"T","sv":"V2.5.1","t":"1566122383754","uid":"30","vc":"19","vn":"1.3.4"}        2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"102","en":"start","entry":"2","extend1":"","g":"WONJ98D7@gmail.com","hw":"640*1136","l":"es","la":"-31.6","ln":"-74.0","loading_time":"12","md":"sumsung-6","mid":"31","nw":"WIFI","open_ad_type":"1","os":"8.2.1","sr":"D","sv":"V2.1.1","t":"1566205365252","uid":"31","vc":"5","vn":"1.1.1"} 2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"","en":"start","entry":"1","extend1":"","g":"SH33PFXS@gmail.com","hw":"640*960","l":"es","la":"-39.0","ln":"-98.1","loading_time":"10","md":"Huawei-11","mid":"34","nw":"3G","open_ad_type":"1","os":"8.1.5","sr":"I","sv":"V2.9.2","t":"1566202804889","uid":"34","vc":"1","vn":"1.2.9"}        2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"102","en":"start","entry":"1","extend1":"","g":"8WB6PLH4@gmail.com","hw":"640*960","l":"es","la":"-35.1","ln":"-95.3","loading_time":"5","md":"HTC-5","mid":"35","nw":"4G","open_ad_type":"1","os":"8.0.8","sr":"D","sv":"V2.1.1","t":"1566173838487","uid":"35","vc":"10","vn":"1.2.4"}    2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"542","en":"start","entry":"1","extend1":"","g":"85YNGM69@gmail.com","hw":"640*1136","l":"en","la":"1.9","ln":"-40.6","loading_time":"15","md":"sumsung-6","mid":"38","nw":"4G","open_ad_type":"2","os":"8.2.3","sr":"Z","sv":"V2.9.8","t":"1566210874237","uid":"38","vc":"13","vn":"1.3.8"}    2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"4","extend1":"","g":"MM6AJ0CG@gmail.com","hw":"640*960","l":"en","la":"-38.3","ln":"-68.1","loading_time":"2","md":"sumsung-4","mid":"39","nw":"WIFI","open_ad_type":"2","os":"8.0.6","sr":"N","sv":"V2.6.8","t":"1566137272796","uid":"39","vc":"18","vn":"1.1.6"}     2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"325","en":"start","entry":"4","extend1":"","g":"4P88C8KH@gmail.com","hw":"750*1134","l":"pt","la":"-48.2","ln":"-57.1","loading_time":"13","md":"sumsung-13","mid":"41","nw":"WIFI","open_ad_type":"1","os":"8.1.7","sr":"R","sv":"V2.7.5","t":"1566194600346","uid":"41","vc":"9","vn":"1.3.3"}        2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"542","en":"start","entry":"5","extend1":"","g":"T4482954@gmail.com","hw":"750*1134","l":"es","la":"-57.3","ln":"-63.1","loading_time":"18","md":"Huawei-6","mid":"42","nw":"WIFI","open_ad_type":"2","os":"8.2.5","sr":"W","sv":"V2.8.7","t":"1566201986456","uid":"42","vc":"11","vn":"1.3.0"}  2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"","en":"start","entry":"5","extend1":"","g":"Y9Z1Z3OI@gmail.com","hw":"1080*1920","l":"pt","la":"-34.1","ln":"-86.0","loading_time":"0","md":"Huawei-10","mid":"44","nw":"3G","open_ad_type":"2","os":"8.0.7","sr":"C","sv":"V2.9.6","t":"1566189704759","uid":"44","vc":"0","vn":"1.1.3"}       2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"","en":"start","entry":"1","extend1":"","g":"VEZH2DS9@gmail.com","hw":"640*1136","l":"en","la":"-51.6","ln":"-62.0","loading_time":"14","md":"HTC-4","mid":"47","nw":"WIFI","open_ad_type":"1","os":"8.2.3","sr":"K","sv":"V2.9.0","t":"1566177473437","uid":"47","vc":"13","vn":"1.3.2"}   2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"","en":"start","entry":"2","extend1":"","g":"6VZ782V6@gmail.com","hw":"640*1136","l":"en","la":"-49.9","ln":"-70.9","loading_time":"7","md":"HTC-16","mid":"49","nw":"WIFI","open_ad_type":"1","os":"8.1.7","sr":"Y","sv":"V2.0.9","t":"1566144407943","uid":"49","vc":"18","vn":"1.1.4"}   2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"201","en":"start","entry":"5","extend1":"","g":"87S46C66@gmail.com","hw":"640*1136","l":"en","la":"7.1","ln":"-51.7","loading_time":"0","md":"HTC-19","mid":"51","nw":"3G","open_ad_type":"2","os":"8.1.5","sr":"F","sv":"V2.3.1","t":"1566123572771","uid":"51","vc":"13","vn":"1.1.5"}    2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"","en":"start","entry":"2","extend1":"","g":"5F93R749@gmail.com","hw":"640*1136","l":"es","la":"-36.4","ln":"-89.0","loading_time":"12","md":"Huawei-6","mid":"55","nw":"3G","open_ad_type":"1","os":"8.0.2","sr":"J","sv":"V2.6.2","t":"1566163560758","uid":"55","vc":"7","vn":"1.2.7"}        2019-08-19
+
+{"action":"2","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"5","extend1":"","g":"1283Q325@gmail.com","hw":"640*1136","l":"en","la":"-50.5","ln":"-44.8","loading_time":"18","md":"sumsung-19","mid":"57","nw":"3G","open_ad_type":"1","os":"8.2.1","sr":"Q","sv":"V2.9.2","t":"1566151217156","uid":"57","vc":"10","vn":"1.3.6"}    2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"5","extend1":"","g":"PR788273@gmail.com","hw":"640*960","l":"pt","la":"15.1","ln":"-65.0","loading_time":"13","md":"sumsung-18","mid":"62","nw":"4G","open_ad_type":"1","os":"8.0.8","sr":"N","sv":"V2.4.3","t":"1566208669215","uid":"62","vc":"1","vn":"1.3.9"}       2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"3","extend1":"","g":"83R097H7@gmail.com","hw":"640*960","l":"pt","la":"6.2","ln":"-113.7","loading_time":"19","md":"sumsung-10","mid":"64","nw":"4G","open_ad_type":"1","os":"8.0.3","sr":"E","sv":"V2.4.7","t":"1566132285146","uid":"64","vc":"13","vn":"1.3.7"}      2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"","en":"start","entry":"5","extend1":"","g":"74HPHENX@gmail.com","hw":"640*1136","l":"pt","la":"-20.3","ln":"-104.6","loading_time":"19","md":"HTC-19","mid":"65","nw":"3G","open_ad_type":"1","os":"8.0.5","sr":"A","sv":"V2.0.0","t":"1566147726365","uid":"65","vc":"9","vn":"1.0.8"}    2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"201","en":"start","entry":"1","extend1":"","g":"1A3B0Y76@gmail.com","hw":"750*1134","l":"es","la":"-41.7","ln":"-116.7","loading_time":"18","md":"sumsung-4","mid":"66","nw":"3G","open_ad_type":"2","os":"8.2.7","sr":"F","sv":"V2.5.6","t":"1566141242832","uid":"66","vc":"10","vn":"1.2.2"} 2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"3","extend1":"","g":"UV00U3T9@gmail.com","hw":"750*1134","l":"pt","la":"7.1","ln":"-110.3","loading_time":"17","md":"sumsung-19","mid":"69","nw":"3G","open_ad_type":"1","os":"8.1.3","sr":"F","sv":"V2.1.3","t":"1566142632941","uid":"69","vc":"9","vn":"1.1.2"}      2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"","en":"start","entry":"3","extend1":"","g":"7NKZ8A4D@gmail.com","hw":"640*1136","l":"es","la":"9.7","ln":"-49.5","loading_time":"11","md":"Huawei-18","mid":"70","nw":"4G","open_ad_type":"2","os":"8.2.8","sr":"K","sv":"V2.9.3","t":"1566156990486","uid":"70","vc":"9","vn":"1.1.2"} 2019-08-19
+
+{"action":"1","ar":"MX","ba":"Huawei","detail":"","en":"start","entry":"2","extend1":"","g":"SQ3999I5@gmail.com","hw":"750*1134","l":"es","la":"12.6","ln":"-42.9","loading_time":"5","md":"Huawei-14","mid":"71","nw":"4G","open_ad_type":"1","os":"8.1.5","sr":"B","sv":"V2.0.1","t":"1566145371024","uid":"71","vc":"16","vn":"1.0.6"}        2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"542","en":"start","entry":"5","extend1":"","g":"DRX54IP6@gmail.com","hw":"750*1134","l":"pt","la":"25.7","ln":"-72.4","loading_time":"13","md":"sumsung-10","mid":"74","nw":"WIFI","open_ad_type":"2","os":"8.0.5","sr":"V","sv":"V2.2.4","t":"1566118888804","uid":"74","vc":"14","vn":"1.1.7"}        2019-08-19
+
+{"action":"2","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"2","extend1":"","g":"G7SMGYVJ@gmail.com","hw":"750*1134","l":"pt","la":"-37.5","ln":"-109.7","loading_time":"6","md":"sumsung-5","mid":"75","nw":"4G","open_ad_type":"2","os":"8.0.7","sr":"C","sv":"V2.7.0","t":"1566155477335","uid":"75","vc":"3","vn":"1.0.0"}      2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"2","extend1":"","g":"83516G4M@gmail.com","hw":"640*960","l":"pt","la":"-16.8","ln":"-59.1","loading_time":"19","md":"sumsung-1","mid":"77","nw":"3G","open_ad_type":"1","os":"8.2.4","sr":"Y","sv":"V2.9.6","t":"1566169402582","uid":"77","vc":"18","vn":"1.2.6"}      2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"5","extend1":"","g":"LU7W4O47@gmail.com","hw":"640*1136","l":"es","la":"0.7000000000000002","ln":"-97.7","loading_time":"5","md":"sumsung-9","mid":"81","nw":"4G","open_ad_type":"2","os":"8.1.8","sr":"H","sv":"V2.6.2","t":"1566119171598","uid":"81","vc":"2","vn":"1.2.7"}  2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"3","extend1":"","g":"62X6Z717@gmail.com","hw":"640*1136","l":"en","la":"5.9","ln":"-71.2","loading_time":"15","md":"sumsung-0","mid":"82","nw":"4G","open_ad_type":"1","os":"8.0.5","sr":"P","sv":"V2.3.9","t":"1566190361304","uid":"82","vc":"12","vn":"1.3.5"}       2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"1","extend1":"","g":"29Y82116@gmail.com","hw":"640*960","l":"es","la":"-8.2","ln":"-44.5","loading_time":"7","md":"sumsung-14","mid":"83","nw":"4G","open_ad_type":"1","os":"8.2.6","sr":"F","sv":"V2.9.0","t":"1566173282499","uid":"83","vc":"19","vn":"1.1.1"}       2019-08-19
+
+{"action":"1","ar":"MX","ba":"Sumsung","detail":"201","en":"start","entry":"3","extend1":"","g":"5OPHD70S@gmail.com","hw":"750*1134","l":"pt","la":"-8.3","ln":"-40.2","loading_time":"7","md":"sumsung-10","mid":"84","nw":"WIFI","open_ad_type":"2","os":"8.2.9","sr":"G","sv":"V2.3.1","t":"1566181851823","uid":"84","vc":"5","vn":"1.3.6"}  2019-08-19
+
+{"action":"2","ar":"MX","ba":"HTC","detail":"","en":"start","entry":"2","extend1":"","g":"HF70B696@gmail.com","hw":"640*960","l":"pt","la":"-30.5","ln":"-115.7","loading_time":"9","md":"HTC-11","mid":"86","nw":"4G","open_ad_type":"2","os":"8.1.4","sr":"Y","sv":"V2.2.1","t":"1566183981524","uid":"86","vc":"6","vn":"1.2.3"}      2019-08-19
+
+{"action":"2","ar":"MX","ba":"HTC","detail":"","en":"start","entry":"4","extend1":"","g":"Y8I9N4RC@gmail.com","hw":"1080*1920","l":"en","la":"-32.3","ln":"-92.7","loading_time":"2","md":"HTC-3","mid":"90","nw":"3G","open_ad_type":"2","os":"8.1.2","sr":"A","sv":"V2.1.7","t":"1566189724448","uid":"90","vc":"2","vn":"1.3.2"}      2019-08-19
+
+{"action":"1","ar":"MX","ba":"HTC","detail":"102","en":"start","entry":"3","extend1":"","g":"71N4G5SG@gmail.com","hw":"640*1136","l":"pt","la":"15.0","ln":"-64.1","loading_time":"17","md":"HTC-17","mid":"94","nw":"3G","open_ad_type":"1","os":"8.2.6","sr":"K","sv":"V2.6.0","t":"1566201671722","uid":"94","vc":"8","vn":"1.1.7"}   2019-08-19
+
+{"action":"2","ar":"MX","ba":"Sumsung","detail":"","en":"start","entry":"4","extend1":"","g":"A3G5N7C9@gmail.com","hw":"640*1136","l":"pt","la":"-20.7","ln":"-66.4","loading_time":"6","md":"sumsung-14","mid":"95","nw":"WIFI","open_ad_type":"2","os":"8.2.8","sr":"G","sv":"V2.3.3","t":"1566130760331","uid":"95","vc":"2","vn":"1.1.1"}    2019-08-19

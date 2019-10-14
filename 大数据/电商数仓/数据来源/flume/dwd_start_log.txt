@@ -1,0 +1,60 @@
+dwd_start_log.mid_id    dwd_start_log.user_id   dwd_start_log.version_code      dwd_start_log.version_name      dwd_start_log.lang      dwd_start_log.source    dwd_start_log.os        dwd_start_log.area      dwd_start_log.model     dwd_start_log.brand      dwd_start_log.sdk_version       dwd_start_log.gmail     dwd_start_log.height_width      dwd_start_log.app_time  dwd_start_log.network   dwd_start_log.lng       dwd_start_log.lat       dwd_start_log.entry     dwd_start_log.open_ad_type       dwd_start_log.action    dwd_start_log.loading_time      dwd_start_log.detail    dwd_start_log.extend1   dwd_start_log.dt
+0       0       0       1.3.0   en      W       8.0.9   MX      HTC-0   HTC     V2.8.5  9E18VUDP@gmail.com      640*960 1566156994125   WIFI    -86.8   -18.1   5       1       1       11      433             2019-08-19
+
+2       2       8       1.1.8   pt      N       8.1.0   MX      HTC-5   HTC     V2.8.0  84S73Y45@gmail.com      640*960 1566153679494   WIFI    -66.5   -32.3   4       1       1       8       201             2019-08-19
+
+3       3       17      1.2.2   es      F       8.2.7   MX      Huawei-1        Huawei  V2.5.3  1F26AE9T@gmail.com      750*1134        1566157217384   4G      -91.5   -37.9   4       1       1       15      542             2019-08-19
+
+4       4       7       1.0.6   es      L       8.0.5   MX      sumsung-15      Sumsung V2.6.8  0B7DFAQ4@gmail.com      640*960 1566121803077   3G      -114.3  30.0    2       1       1       8       542             2019-08-19
+
+6       6       17      1.2.7   pt      Y       8.1.5   MX      HTC-4   HTC     V2.2.8  5EBK79P2@gmail.com      640*960 1566208399307   WIFI    -90.1   0.3999999999999999      1       1       2       2                       2019-08-19
+
+9       9       6       1.3.5   en      B       8.2.0   MX      sumsung-7       Sumsung V2.0.8  6920R8J6@gmail.com      640*960 1566190252458   3G      -64.9   16.9    1       1       2       5       542             2019-08-19
+
+11      11      13      1.1.9   en      B       8.2.6   MX      Huawei-15       Huawei  V2.3.5  O987FPFL@gmail.com      640*1136        1566186955369   4G      -100.2  -48.9   2       2       1       12      325             2019-08-19
+
+12      12      17      1.1.0   es      P       8.2.2   MX      Huawei-7        Huawei  V2.4.6  7Z27S31U@gmail.com      1080*1920       1566208864234   WIFI    -86.0   18.0    5       1       2       19      102             2019-08-19
+
+15      15      8       1.0.8   pt      L       8.2.9   MX      HTC-7   HTC     V2.8.2  7077KGLH@gmail.com      640*960 1566121747488   WIFI    -101.1  -17.7   4       2       1       3       325             2019-08-19
+
+16      16      6       1.0.5   pt      V       8.1.2   MX      HTC-2   HTC     V2.2.9  2S13SZHN@gmail.com      640*1136        1566181956746   WIFI    -118.7  -38.0   4       1       1       2       201             2019-08-19
+
+18      18      6       1.3.0   en      E       8.2.2   MX      sumsung-11      Sumsung V2.1.5  4E0EE427@gmail.com      750*1134        1566122212863   4G      -110.7  16.5    3       2       2       19                      2019-08-19
+
+19      19      13      1.1.3   pt      B       8.1.8   MX      HTC-6   HTC     V2.6.8  EE96X24H@gmail.com      640*960 1566130936440   3G      -63.5   -10.2   5       1       1       2       201             2019-08-19
+
+20      20      9       1.1.2   en      J       8.2.9   MX      sumsung-12      Sumsung V2.0.2  9795D5MU@gmail.com      750*1134        1566134409129   4G      -92.4   -7.3    4       2       1       6       325             2019-08-19
+
+21      21      14      1.1.8   es      J       8.1.1   MX      sumsung-0       Sumsung V2.7.2  7160OG9U@gmail.com      640*1136        1566196339204   3G      -96.4   24.0    2       1       2       17                      2019-08-19
+
+24      24      6       1.1.2   pt      F       8.0.6   MX      Huawei-14       Huawei  V2.6.2  JOBZZ3M2@gmail.com      640*960 1566204494534   WIFI    -96.3   -9.2    1       2       1       17                      2019-08-19
+
+25      25      12      1.0.1   es      J       8.1.3   MX      HTC-15  HTC     V2.7.2  AOEU3FIT@gmail.com      750*1134        1566155684139   3G      -76.0   -47.0   5       2       2       2                       2019-08-19
+
+27      27      11      1.3.5   en      X       8.2.0   MX      Huawei-4        Huawei  V2.8.2  A0241P4M@gmail.com      750*1134        1566199603660   4G      -71.1   23.2    3       1       1       4       325             2019-08-19
+
+29      29      8       1.3.5   pt      H       8.2.9   MX      HTC-8   HTC     V2.6.2  IYRFMYN5@gmail.com      1080*1920       1566125531671   4G      -107.7  22.8    4       2       1       11                      2019-08-19
+
+30      30      19      1.3.4   es      T       8.2.6   MX      HTC-12  HTC     V2.5.1  81TDK188@gmail.com      1080*1920       1566122383754   3G      -92.1   -50.5   5       2       1       16      201             2019-08-19
+
+31      31      5       1.1.1   es      D       8.2.1   MX      sumsung-6       Sumsung V2.1.1  WONJ98D7@gmail.com      640*1136        1566205365252   WIFI    -74.0   -31.6   2       1       1       12      102             2019-08-19
+
+34      34      1       1.2.9   es      I       8.1.5   MX      Huawei-11       Huawei  V2.9.2  SH33PFXS@gmail.com      640*960 1566202804889   3G      -98.1   -39.0   1       1       1       10                      2019-08-19
+
+35      35      10      1.2.4   es      D       8.0.8   MX      HTC-5   HTC     V2.1.1  8WB6PLH4@gmail.com      640*960 1566173838487   4G      -95.3   -35.1   1       1       1       5       102             2019-08-19
+
+38      38      13      1.3.8   en      Z       8.2.3   MX      sumsung-6       Sumsung V2.9.8  85YNGM69@gmail.com      640*1136        1566210874237   4G      -40.6   1.9     1       2       1       15      542             2019-08-19
+
+39      39      18      1.1.6   en      N       8.0.6   MX      sumsung-4       Sumsung V2.6.8  MM6AJ0CG@gmail.com      640*960 1566137272796   WIFI    -68.1   -38.3   4       2       1       2                       2019-08-19
+
+41      41      9       1.3.3   pt      R       8.1.7   MX      sumsung-13      Sumsung V2.7.5  4P88C8KH@gmail.com      750*1134        1566194600346   WIFI    -57.1   -48.2   4       1       1       13      325             2019-08-19
+
+42      42      11      1.3.0   es      W       8.2.5   MX      Huawei-6        Huawei  V2.8.7  T4482954@gmail.com      750*1134        1566201986456   WIFI    -63.1   -57.3   5       2       1       18      542             2019-08-19
+
+44      44      0       1.1.3   pt      C       8.0.7   MX      Huawei-10       Huawei  V2.9.6  Y9Z1Z3OI@gmail.com      1080*1920       1566189704759   3G      -86.0   -34.1   5       2       1       0                       2019-08-19
+
+47      47      13      1.3.2   en      K       8.2.3   MX      HTC-4   HTC     V2.9.0  VEZH2DS9@gmail.com      640*1136        1566177473437   WIFI    -62.0   -51.6   1       1       1       14                      2019-08-19
+
+49      49      18      1.1.4   en      Y       8.1.7   MX      HTC-16  HTC     V2.0.9  6VZ782V6@gmail.com      640*1136        1566144407943   WIFI    -70.9   -49.9   2       1       1       7                       2019-08-19
+
+51      51      13      1.1.5   en      F       8.1.5   MX      HTC-19  HTC     V2.3.1  87S46C66@gmail.com      640*1136        1566123572771   3G      -51.7   7.1     5       2       1       0       201             2019-08-19

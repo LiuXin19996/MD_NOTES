@@ -1,0 +1,3 @@
+ads_user_convert_day.dt ads_user_convert_day.uv_m_count ads_user_convert_day.new_m_count        ads_user_convert_day.new_m_ratio
+2019-08-19      1448    1448    100
+2019-08-21      NULL    NULL    NULL

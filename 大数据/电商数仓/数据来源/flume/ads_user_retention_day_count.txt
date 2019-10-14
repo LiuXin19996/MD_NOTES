@@ -1,0 +1,3 @@
+ads_user_retention_day_count.create_date        ads_user_retention_day_count.retention_day      ads_user_retention_day_count.retention_count
+2019-08-19      3       630
+ 

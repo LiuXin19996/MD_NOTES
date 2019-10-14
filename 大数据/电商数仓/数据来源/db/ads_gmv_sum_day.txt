@@ -1,0 +1,3 @@
+ads_gmv_sum_day.dt      ads_gmv_sum_day.gmv_count       ads_gmv_sum_day.gmv_amount      ads_gmv_sum_day.gmv_payment
+2019-08-19      0       0       249928
+2019-08-21      1000    531236  266438

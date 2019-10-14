@@ -1,0 +1,4 @@
+ads_back_count.dt       ads_back_count.wk_dt    ads_back_count.wastage_count
+2019-09-04      2019-09-02_2019-09-08   45
+2019-09-04      2019-09-02_2019-09-08   45
+ 

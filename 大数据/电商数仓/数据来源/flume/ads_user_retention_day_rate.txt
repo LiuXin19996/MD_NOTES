@@ -1,0 +1,4 @@
+ads_user_retention_day_rate.stat_date   ads_user_retention_day_rate.create_date ads_user_retention_day_rate.retention_day       ads_user_retention_day_rate.retention_count     ads_user_retention_day_rate.new_mid_count       ads_user_retention_day_rate.retention_ratio
+2019-08-22      2019-08-19      3       630     724     87.02
+2019-08-22      2019-08-19      3       630     724     87.02
+ 

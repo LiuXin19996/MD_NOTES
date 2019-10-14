@@ -1,0 +1,27 @@
+dwd_payment_info.id     dwd_payment_info.out_trade_no   dwd_payment_info.order_id       dwd_payment_info.user_id        dwd_payment_info.alipay_trade_no        dwd_payment_info.total_amount   dwd_payment_info.subject        dwd_payment_info.payment_type    dwd_payment_info.payment_time   dwd_payment_info.dt
+1008    1527768452      2       33      Jfzi-29903549   608     kjrhKdkS        alipay  2019-08-19 20:28:22     2019-08-19
+1009    4146712037      3       141     JlnH-43223982   683     OiwLrxoa        wechatpay       2019-08-19 19:45:37     2019-08-19
+1010    4469965985      6       185     lrck-86599986   538     wndzoWRs        wechatpay       2019-08-19 14:51:53     2019-08-19
+1011    1936433449      7       96      zBjp-97891106   84      ynWSxIbh        alipay  2019-08-19 19:03:37     2019-08-19
+1012    0420189917      8       117     JpHo-44742631   484     uIeyebSl        alipay  2019-08-19 17:40:40     2019-08-19
+1013    8682674286      9       200     SQyX-38114546   99      YSvxZJhT        unionpay        2019-08-19 18:26:48     2019-08-19
+1014    4923330843      11      87      btPU-03806219   183     yvKlbAwJ        unionpay        2019-08-19 05:42:26     2019-08-19
+1015    7756603768      13      107     yLlX-16979420   381     JSwEFoJm        alipay  2019-08-19 09:44:45     2019-08-19
+1016    4218697891      17      144     bfxU-19376344   831     OCvwUltk        unionpay        2019-08-19 13:52:27     2019-08-19
+1017    2108061678      18      93      brJg-61663095   960     ZpAJSkyO        alipay  2019-08-19 08:11:56     2019-08-19
+1018    9228266174      19      20      PLkR-65921251   652     juuPOzjt        wechatpay       2019-08-19 13:01:19     2019-08-19
+1019    1251252625      23      2       CMde-21907361   696     SPxSVYhO        alipay  2019-08-19 07:32:13     2019-08-19
+1020    5720578910      24      172     irkX-18055380   824     cWAOrtRf        unionpay        2019-08-19 21:28:27     2019-08-19
+1021    8195850767      25      37      EbsK-41318854   617     BpSvxcRf        wechatpay       2019-08-19 21:34:41     2019-08-19
+1022    5904097769      27      108     Jwgq-21957962   237     xyZAJEcz        wechatpay       2019-08-19 19:39:31     2019-08-19
+1023    8108301663      28      127     bonx-51321956   623     FiXnyDvt        alipay  2019-08-19 13:20:34     2019-08-19
+1024    1008263133      29      92      SChb-78696599   955     UFqQhnTJ        alipay  2019-08-19 11:17:15     2019-08-19
+1025    6173445486      32      84      wPKd-21736239   612     yIWJtZOY        alipay  2019-08-19 14:10:08     2019-08-19
+1026    1317288510      35      75      LbZQ-14550565   427     PtAuwbQZ        alipay  2019-08-19 17:31:26     2019-08-19
+1027    4297977494      36      69      vFRu-38891055   185     dOLokikD        wechatpay       2019-08-19 11:03:33     2019-08-19
+1028    0804474772      37      92      vwSc-60292316   474     UvsCIIqF        wechatpay       2019-08-19 05:10:52     2019-08-19
+1029    1076828650      38      4       DEkq-97761412   182     YbiPxUeM        alipay  2019-08-19 22:55:05     2019-08-19
+1030    0963776848      39      188     kAZt-94495716   268     MKnkmDhc        unionpay        2019-08-19 14:07:26     2019-08-19
+1031    3133958681      40      61      FQlJ-75510636   442     gPDzJaYP        wechatpay       2019-08-19 11:13:18     2019-08-19
+1032    5650359846      41      109     XFgQ-60014094   272     HLHdtMBv        alipay  2019-08-19 14:59:14     2019-08-19
+ 

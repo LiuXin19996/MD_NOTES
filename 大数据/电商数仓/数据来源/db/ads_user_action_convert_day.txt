@@ -1,0 +1,3 @@
+ads_user_action_convert_day.dt  ads_user_action_convert_day.total_visitor_m_count       ads_user_action_convert_day.order_u_count       ads_user_action_convert_day.visitor2order_convert_ratio ads_user_action_convert_day.payment_u_count      ads_user_action_convert_day.order2payment_convert_ratio
+2019-08-19      724     0       0       187     NULL
+2019-08-19      724     0       0       187     NULL

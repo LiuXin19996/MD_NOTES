@@ -1,0 +1,3 @@
+ads_new_mid_count.create_date   ads_new_mid_count.new_mid_count
+2019-08-19      724
+2019-08-19      724
